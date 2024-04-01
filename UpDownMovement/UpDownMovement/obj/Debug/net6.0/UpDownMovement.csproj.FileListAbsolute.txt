@@ -1,0 +1,15 @@
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\bin\Debug\net6.0\UpDownMovement.exe
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\bin\Debug\net6.0\UpDownMovement.deps.json
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\bin\Debug\net6.0\UpDownMovement.runtimeconfig.json
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\bin\Debug\net6.0\UpDownMovement.dll
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\bin\Debug\net6.0\UpDownMovement.pdb
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\obj\Debug\net6.0\UpDownMovement.csproj.AssemblyReference.cache
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\obj\Debug\net6.0\UpDownMovement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\obj\Debug\net6.0\UpDownMovement.AssemblyInfoInputs.cache
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\obj\Debug\net6.0\UpDownMovement.AssemblyInfo.cs
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\obj\Debug\net6.0\UpDownMovement.csproj.CoreCompileInputs.cache
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\obj\Debug\net6.0\UpDownMovement.dll
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\obj\Debug\net6.0\refint\UpDownMovement.dll
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\obj\Debug\net6.0\UpDownMovement.pdb
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\obj\Debug\net6.0\UpDownMovement.genruntimeconfig.cache
+C:\Users\19176\OneDrive\Documents\Programming\C#\UpDownMovement\UpDownMovement\obj\Debug\net6.0\ref\UpDownMovement.dll
