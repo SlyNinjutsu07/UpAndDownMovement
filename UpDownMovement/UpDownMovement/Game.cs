@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,19 +10,20 @@ namespace UpDownMovement
     internal class Game
     {
         
-        public List<Level> levels = new List<Level>();
+        private List<Level> levels = new List<Level>();
         private static int levelCounter;
 
-        public Game(int l)
+        public Game()
         {
             levelCounter = 0;
+            /*
             //levels = new List<Level>(l);
-            for(int i = 0; i < l/*levels.Count*/; i++)
+            for(int i = 0; i < l/*levels.Count; i++)
             {
                 Random r = new Random();
                 int val = r.Next(5, 10);
                 levels.Add(new Level(val, val + 2));//[i] = new Level(val, val + 2);
-            }
+            }*/
         }
 
 
@@ -106,6 +107,12 @@ namespace UpDownMovement
         {
             ForegroundColor = ConsoleColor.Green;
             WriteLine("Thanks for playing!");
+        }
+
+        public List<Level> Levels
+        {
+            get { return levels; }
+            set { levels = value; }
         }
     }
 }
